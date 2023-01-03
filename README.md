@@ -1,5 +1,6 @@
 # Project1_0.0.1_hacknitr
 #HACK NITR
+#SPARKLING VOYAGE
 ### This is a project which aims to simplify the news accesibility based on the personal taste of the user.
 ### The website needs the basic permissions of location and will give personalised news on various areas of interest of the user.
 ### This includes a chatbot feature which helps in improvememt of visibility of the website and increases the user-interface interaction.
